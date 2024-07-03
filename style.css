@@ -1,16 +1,16 @@
 @font-face {
     font-family: hel;
-    src: url(HelveticaNowText-Regular.woff2);
+    src: url("HelveticaNowText-Regular.woff2");
 }
 
 @font-face {
     font-family: fut;
-    src: url(Futura-Bold.woff2);
+    src: url("Futura-Bold.woff2");
 }
 
 @font-face {
     font-family: abc;
-    src: url(ABCSocialMono-Regular.woff2);
+    src: url("ABCSocialMono-Regular.woff2");
 }
 
 * {
